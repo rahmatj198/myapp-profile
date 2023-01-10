@@ -576,7 +576,7 @@ select:not([multiple]) {
 
 @media (max-width: 991px) {
     .navbar-collapse {
-        position: fixed;
+        position: absolute;
         top: 50px;
         right: 0px;
         background: white;
