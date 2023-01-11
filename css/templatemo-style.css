@@ -629,6 +629,8 @@ select:not([multiple]) {
 
 @media (max-width:400px) {
     img#opsigambar {
-      display: none;
+        max-width: 100%;
+        max-height: 100%;
+      /* display: none; */
     }
   }
