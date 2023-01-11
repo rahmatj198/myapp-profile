@@ -626,3 +626,9 @@ select:not([multiple]) {
 
     .tm-social-links li { margin-right: 3px; }
 }
+
+@media (max-width:400px) {
+    img#opsigambar {
+      display: none;
+    }
+  }
